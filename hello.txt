@@ -1,2 +1,1 @@
-hello
-feature_z
+tag1.0.0
